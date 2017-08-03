@@ -1,5 +1,5 @@
 # Music-Player
-A Simple Music Player with HTML5, CSS and JavaScript.
+A Simple Music Player with HTML5, CSS3 and Vanilla JavaScript.
 It was inspired by codefrog UI design.
 It contains 7 musics file in the music folder.
 I used FontAwesome for the font icons.
